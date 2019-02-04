@@ -1,5 +1,5 @@
 # Block-Breaker-Unity
-#Block Breaker
+Block Breaker
 
 Getting Started
 Just download these files on your local machine. Unzip the file and run the exe. Use the mouse to move the paddle and left click to launch the ball.
