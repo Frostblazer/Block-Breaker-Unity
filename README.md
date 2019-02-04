@@ -1,17 +1,17 @@
 # Block-Breaker-Unity
 #Block Breaker
 
-#Getting Started
+Getting Started
 Just download these files on your local machine. Unzip the file and run the exe. Use the mouse to move the paddle and left click to launch the ball.
 
-#Prerequisites
+Prerequisites
 What you will need to run the game. Latest verison of Unity. Latest verison of Visual Studio.
 
-#Built With
+Built With
 C# Unity
 
-#Author
+Author
 Shawn Witemyre
 
-#License
+License
 Use and modify code as you wish.
